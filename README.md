@@ -1,3 +1,3 @@
 # subscount
 
-(cleck Live)[https://neeswebservices.github.io/subscount/]
+[check live](https://neeswebservices.github.io/subscount/)
